@@ -1,0 +1,18 @@
+# Environment
+.env
+venv/
+env/
+
+# Python
+__pycache__/
+*.pyc
+
+# FAISS index (regenerated locally / can be committed if you want to ship it)
+faiss_index/*.faiss
+faiss_index/*.pkl
+
+# Streamlit
+.streamlit/
+
+# OS files
+.DS_Store
