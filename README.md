@@ -134,14 +134,6 @@ git push -u origin main
 
 ---
 
-## 📝 Submission Checklist
-
-- [ ] GitHub repo link with this code pushed
-- [ ] Short demo video/screenshots showing:
-  - [ ] Uploading or indexing a document
-  - [ ] At least 5 Q&A exchanges
-  - [ ] At least one "Not found in document" response
-  - [ ] Sources panel showing retrieved chunks
 
 ---
 
